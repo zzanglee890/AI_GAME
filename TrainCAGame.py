@@ -7,6 +7,8 @@
   left/stay/right to catch the fruit before it reaches the ground.
 """
 #hello AI!
+
+#### HELLO Me too!
 import tensorflow as tf
 import numpy as np
 import random
