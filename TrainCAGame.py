@@ -6,7 +6,7 @@
   The agent plays a game of catch. Fruits drop from the sky and the agent can choose the actions
   left/stay/right to catch the fruit before it reaches the ground.
 """
-
+#hello AI!
 import tensorflow as tf
 import numpy as np
 import random
