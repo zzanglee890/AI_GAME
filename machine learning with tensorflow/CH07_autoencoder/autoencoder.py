@@ -81,7 +81,7 @@ class Autoencoder:
             not_horse_loss = np.mean(loss[not_horse_indices])
             print('horse', horse_loss)
             print('not horse', not_horse_loss)
-            return hidden[7,:]
+            return hidden
 
     def decode(self, encoding):
         with tf.Session() as sess:
